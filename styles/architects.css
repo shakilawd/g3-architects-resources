@@ -184,6 +184,16 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
+/* footer styles */
+.footer-content{
+    text-align: center;
+    background-color: bisque;
+    width: 80%;
+    height: 100%;
+    padding: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
  /* responsive media queries */
 /* mobile devices */
 
@@ -218,6 +228,7 @@ main{
 .facts-card-container{
     gap: 20px;
 }
+
     
 }
 /* tablet or medium devices */
