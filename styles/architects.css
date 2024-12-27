@@ -228,6 +228,10 @@ main{
 .facts-card-container{
     gap: 20px;
 }
+.footer-content{
+    margin-left: 10%;
+    margin-right: 50%;
+}
 
     
 }
